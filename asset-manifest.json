@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Test-Questionnaire-React/static/css/main.9df75885.css",
+    "main.js": "/Test-Questionnaire-React/static/js/main.e516e7cd.js",
+    "index.html": "/Test-Questionnaire-React/index.html",
+    "main.9df75885.css.map": "/Test-Questionnaire-React/static/css/main.9df75885.css.map",
+    "main.e516e7cd.js.map": "/Test-Questionnaire-React/static/js/main.e516e7cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df75885.css",
+    "static/js/main.e516e7cd.js"
+  ]
+}
